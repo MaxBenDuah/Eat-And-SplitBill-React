@@ -5,23 +5,23 @@ const friendsData = [
     img: "https://i.pravatar.cc/45",
     balance: -20,
     time: "07:30 PM",
-    date: "Jul 12, 2023"
+    date: "Jul 12, 2023",
   },
   {
     id: 2,
-    name: "John",
+    name: "Shannon",
     img: "https://i.pravatar.cc/44",
     balance: 20,
     time: "05:30 PM",
-    date: "Mar 16, 2023"
+    date: "Mar 16, 2023",
   },
   {
     id: 3,
-    name: "Daniel",
+    name: "Daniella",
     img: "https://i.pravatar.cc/43",
     balance: 0,
     time: "02:30 PM",
-    date: "Dec 12, 2023"
+    date: "Dec 12, 2023",
   },
   // {
   //   id: 4,
