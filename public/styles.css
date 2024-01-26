@@ -173,8 +173,8 @@ body {
   position: absolute;
   right: 0;
   top: 0;
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
   background: red;
   border-radius: 50%;
   color: #fff;
@@ -183,7 +183,8 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  transform: translate(30%, 0);
+  transform: translate(20%, -40%);
+  border: 2px solid #fff;
 }
 
 .split {
